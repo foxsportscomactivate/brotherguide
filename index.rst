@@ -1,5 +1,5 @@
 ##################
-Brother Printer Setup: A Complete Guide for Easy Installation
+Brother Printer Configuration: A Comprehensive Guide for Simple Setup
 ##################
 
 .. meta::
